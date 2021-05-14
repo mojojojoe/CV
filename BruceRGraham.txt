@@ -1,0 +1,7 @@
+  /home/boris/doc/CV:
+  total used in directory 75 available 155381632
+  drwxrwxr-x 3 boris boris    7 May 15 01:12 .
+  drwxr-xr-x 6 boris boris   23 May 14 14:21 ..
+  -rw-rw-r-- 1 boris boris 4391 May 15 01:12 BruceRGraham.txt
+  drwxrwxr-x 8 boris boris   14 May 15 01:11 .git
+  -rw-rw-r-- 1 boris boris   34 May 15 01:10 TODO.org
