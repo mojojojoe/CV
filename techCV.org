@@ -1,0 +1,74 @@
+#+TITLE: Resume
+#+OPTIONS: toc:nil
+
+
+* CONTACT
+  
+  Cell and WhatsApp: 0027 72 091 6687  IP telephone: 0027 87 550 7192  Email:bruceg72@pm.me
+				   
+* SUMMARY
+
+  Bruce is a BSc graduate through UNISA. 
+  Bruce has been an ardent Open Source Unix enthusiast and hobbyist since shortly after Linus Torvalds announced his kernel. 
+  Bruce has tinkered with device drivers on FreeBSD, set up his own PostgreSql server and built clusters, as well as his building his own systems throughout.
+  Bruce has developed expertise in Bash, has programmed in Perl, C and Ruby and has become advanced at the workings of Emacs.
+
+       
+* TRAITS
+
+  - Excellent written communicator
+  - Expert problem solver on Linux 
+  - Technically orientated and
+  - An independent worker (with facilities for remote work.)
+    
+
+* SKILLS
+
+  | Skill        | Level        |
+  |--------------+--------------|
+  | R            | senior       |
+  | Python       | intermediate |
+  | Ansible      | beginner     |
+  | deb          | working      |
+  | rpm          | working      |
+  | Git          | working      |
+  | Bash         | working      |
+  | command line | expert       |
+  | Ubuntu       | senior       |
+  | CentOS       | senior       |
+  | PostgreSQL   | intermediate |
+
+* PROJECTS
+
+  [-]  
+       
+* EDUCATION
+
+  Honours Bachelor of Science (Incomplete)		[2005-01-31] to [2006-11-30]
+  Operational Research
+  University of South Africa, Pretoria
+
+  Bachelor of Science					[1993-01-31] to [2004-10-31]
+  Operational Research, Mathematics, Statistics (2:2)
+  University of South Africa, Pretoria
+
+
+* WORK EXPERIENCE
+
+  Personal investment manager				[2017-01-31
+  Work from home
+  Bruce conducts research and reading on the markets and economy. Based on research, Bruce picks equities with an eye to harnessing ultra long term market forces and trends. He timeously purchased into a Euro based resource ETF before the Bloomberg announcement of a new commodity supercycle. Bruce timeously purchased global REITs in anticipation of a highly inflationary environment. Mistake wise, Bruce sold shares in the KOMP 4th IR tech fund only half way through their rise. Bruce is a connoisseur of investment products with good research and excellent risk management. He has latterly invested in a global equity multi factor fund and is no longer exclusively a return chaser.
+
+  Entrepreneur   		                             April 2008-July 2015
+  Wilfredo’s Ice Cream Company
+  Bruce performed product R&D and established a factory. He also researched a ﬁnancial reporting system and performed the bookkeeping. With his business partner, they produced ice cream and delivered it. Bruce administered the business and guided the direction of the business, spending his free time building a spreadsheet model to anticipate cashflow and profitability of the business.
+  
+  Entrepreneur  		                             Sep 2006-Jan 2008
+  Karoo Wirreless
+  Bruce was involved in the pilot phase of this business. He scoured the surrounding mountains for antennae sights. He lobbied the municipality for support. He canvassed the area for customers and lobbied for business. Bruce formed a partnership with a company in George to perform the technical setup. Bruce left after having secured the first few customers.
+
+
+
+* REFERENCES
+
+On request
