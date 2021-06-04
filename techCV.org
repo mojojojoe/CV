@@ -6,7 +6,7 @@
 
 * CONTACT
   
-  Cell: 0027 72 091 6687   IP telephone: 0027 87 550 7192    Email: bruceg72@pm.me
+  Cell: 0027 72 091 6687   IP telephone: 0027 87 550 7192    Email: bruceg72@protonmail.ch
 				   
 * SUMMARY
 
@@ -43,6 +43,7 @@
 | Shiny         | beginner/inter |
 |               |                |
 |---------------+----------------|
+
 
 * PROJECTS
 

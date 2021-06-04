@@ -1,29 +1,19 @@
-% Created 2021-05-17 Mon 04:56
+% Created 2021-06-01 Tue 13:54
 % Intended LaTeX compiler: pdflatex
-\documentclass{article}
+\documentclass{scrartcl}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
-\usepackage{fixltx2e}
 \usepackage{graphicx}
+\usepackage{grffile}
 \usepackage{longtable}
-\usepackage{float}
 \usepackage{wrapfig}
 \usepackage{rotating}
 \usepackage[normalem]{ulem}
 \usepackage{amsmath}
 \usepackage{textcomp}
-\usepackage{marvosym}
-\usepackage{wasysym}
 \usepackage{amssymb}
+\usepackage{capt-of}
 \usepackage{hyperref}
-\usepackage{mathpazo}
-\usepackage{color}
-\usepackage{enumerate}
-\definecolor{bg}{rgb}{0.95,0.95,0.95}
-\tolerance=1000
-            
-\linespread{1.1}
-\hypersetup{pdfborder=0 0 0}
 \author{Bruce Graham}
 \date{\today}
 \title{Resume}
@@ -37,13 +27,16 @@
 \begin{document}
 
 \maketitle
-\section{CONTACT}
-\label{sec:org9b7e374}
 
-Cell: 0027 72 091 6687   IP telephone: 0027 87 550 7192    Email: bruceg72@pm.me
+
+
+\section{CONTACT}
+\label{sec:org4460e60}
+
+Cell: 0027 72 091 6687   IP telephone: 0027 87 550 7192    Email: bruceg72@protonmail.ch
 
 \section{SUMMARY}
-\label{sec:org72356f0}
+\label{sec:org5af211c}
 
 Bruce is a BSc graduate through UNISA. 
 Bruce has been an ardent Open Source Unix enthusiast and hobbyist since Linus Torvalds announced his kernel. 
@@ -52,7 +45,7 @@ Bruce has developed expertise in Bash and R and has programmed in SQL, C and Pyt
 
 
 \section{TRAITS}
-\label{sec:org2849da6}
+\label{sec:orga4d5c64}
 
 \begin{itemize}
 \item Excellent written communicator
@@ -62,7 +55,7 @@ Bruce has developed expertise in Bash and R and has programmed in SQL, C and Pyt
 \end{itemize}
 
 \section{SKILLS}
-\label{sec:org3d21cff}
+\label{sec:org9ce392e}
 
 \begin{center}
 \begin{tabular}{ll}
@@ -87,8 +80,9 @@ Shiny & beginner/inter\\
 \end{tabular}
 \end{center}
 
+
 \section{PROJECTS}
-\label{sec:org322e1b3}
+\label{sec:orgfd52680}
 
 \begin{itemize}
 \item Bruce compiled the 2.18 kernel tweaking the device drivers and fitting the available drivers. On numerous occassions Bruce compiled a full monolithic kernel and successfully ran his machine.
@@ -101,7 +95,7 @@ Shiny & beginner/inter\\
 \end{itemize}
 
 \section{EDUCATION}
-\label{sec:org00d9846}
+\label{sec:orgdff84f1}
 
 Honours Bachelor of Science (Incomplete)		\textit{[2005-01-31 Mon] } to \textit{[2006-11-30 Thu]}
 Operational Research
@@ -112,7 +106,7 @@ Operational Research, Mathematics, Statistics (2:2)
 University of South Africa, Pretoria
 
 \section{WORK EXPERIENCE}
-\label{sec:org3431481}
+\label{sec:org33e2013}
 
 Personal investment manager				     2017-01 to present
 Work from home
@@ -129,7 +123,7 @@ Bruce was involved in the pilot phase of this business. He scoured the surroundi
 
 
 \section{REFERENCES}
-\label{sec:org47c92fb}
+\label{sec:org9771c34}
 
 On request
 \end{document}
