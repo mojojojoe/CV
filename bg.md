@@ -1,5 +1,5 @@
 			     ━━━━━━━━━━━━━━
-				 RESUME
+					 RESUME
 
 			      Bruce Graham
 			     ━━━━━━━━━━━━━━
@@ -110,7 +110,6 @@
   canvassed the area for customers and lobbied for business. Bruce
   formed a partnership with a company in George to perform the technical
   setup. Bruce left after having secured the first few customers.
-
 
 7 REFERENCES
 ════════════
