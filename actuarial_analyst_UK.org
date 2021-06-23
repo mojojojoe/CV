@@ -1,0 +1,73 @@
+#+TITLE: Curriculum Vitae
+#+OPTIONS: toc:nil
+#+LaTeX_CLASS: koma-article
+
+
+* CONTACT
+
+  email: bruceg72@pm.me
+  telephone: 087 550 7192
+  cellular: 0720916687
+
+* SUMMARY
+
+Bruce is a BSc (Math, Operational Research) graduate with further studies in Financial engineering and business reporting, through ASSA. 
+Bruce has acted as his own investment manager since 2017 where he has developed a growing knowledge of global investment opportunities.
+Bruce's entreprenarial flare led him to become involved in an ice cream wholesaler startup in Cape Town where he put his knowledge of modelling to use to anticipate business profitability and cash flow. 
+
+       
+Bruce is planning to relocate to the United Kingdom in December at his own cost. Bruce has ancestral rights to a work visa.
+
+       
+* EDUCATION
+
+- Actuarial Student Fin. math (FB), Business reporting (FB)
+Actuarial Society of South Africa, Cape Town
+
+- Honours Bachelor of Science (Incomplete) in Operational Research
+University of South Africa, Pretoria
+
+- Bachelor of Science in Operational Research, Mathematics, Statistics
+University of South Africa, Pretoria
+
+
+* WORK EXPERIENCE
+
+- Personal investment manager				2017-present
+Work from home
+Bruce conducts research and reading on the markets and economy. Based on research, Bruce picks equities with an eye to harnessing ultra long term market forces and trends. He timeously purchased into a Euro based resource ETF before the Bloomberg announcement of a new commodity supercycle. Bruce timeously purchased global REITs in anticipation of a highly inflationary environment. Mistake wise, Bruce sold shares in the KOMP 4th IR tech fund only half way through their rise. Bruce is a connoisseur of investment products with good research and excellent risk management. He has latterly invested in a global equity multi factor fund and is no longer exclusively a return chaser.
+
+- Entrepreneur   		                             April 2008-July 2015
+Wilfredo’s Ice Cream Company
+Bruce performed product R&D and established a factory. He also researched a ﬁnancial reporting system and performed the bookkeeping. With his business partner, they produced ice cream and delivered it. Bruce administered the business and guided the direction of the business, spending his free time building a spreadsheet model to anticipate cashflow and profitability of the business.
+
+- Entrepreneur  		                             Sep 2006-Jan 2008
+Karoo Wireless
+Bruce was involved in the pilot phase of this business. He scoured the surrounding mountains for antennae sights. He lobbied the municipality for support. He canvassed the area for customers and lobbied for business. Bruce formed a partnership with a company to perform the technical setup. Bruce secured the first few customers.
+       
+* TRAITS
+
+Excellent written communicator
+
+Expert problem solver 
+
+Detail orientated
+
+Technically orientated
+
+Analytical thinker
+
+An independent worker
+    
+
+* PROJECTS
+
+- Costing and Profit spreadsheet (Wilfredo’s Ice Cream Co.):This spreadsheet was built to ascertain how much the business had to charge for its ice cream. It tied in with the Wilfredo’s Ice Cream company’s finances to show proﬁt from input costs of the ice cream, ongoing expenses, and cost price charged. Ultimately it gave the managers insight into the sustainability of the ice cream business model and saved tens of millions of rands by showing that ultimately the business wasn’t sustainable.
+- Home budget spreadsheet tool: Bruce designed a home budget tool to keep track of expenses and show where deviations in a tight household budget were happening. This can be adapted to a business use. The next step is to code all the concepts and ultimately to tie it into an R or Julia package so that everyone can use it.
+- Investment analysis scripted document: Bruce wrote an experimental org script in Emacs to pull stock prices oﬀ the internet, and to reﬂect the valuations on investments. He further incorporated exchange rates. Bruce stored crucial values to a Sqlite3 database and charted the continuously updated data with a time series chart from R. Latterly he has converted some of the code to R and is performing optimisations on portfolio’s with some of the specialist packages in R.
+
+
+
+* REFERENCES
+
+On request
