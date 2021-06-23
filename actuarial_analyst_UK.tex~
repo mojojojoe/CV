@@ -1,89 +1,140 @@
-#+TITLE: Curriculum Vitae
-#+OPTIONS: toc:nil
-#+LaTeX_CLASS: koma-article
+% Created 2021-06-23 Wed 11:00
+% Intended LaTeX compiler: pdflatex
+\documentclass{scrartcl}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\author{Bruce}
+\date{\today}
+\title{Curriculum Vitae}
+\hypersetup{
+ pdfauthor={Bruce},
+ pdftitle={Curriculum Vitae},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 26.3 (Org mode 9.1.9)}, 
+ pdflang={English}}
+\begin{document}
+
+\maketitle
 
 
-* CONTACT
+\section{CONTACT}
+\label{sec:orgea6efc0}
 
-  email: bruceg72@pm.me
-  telephone: 087 550 7192
-  cellular: 0720916687
+email: bruceg72@pm.me
+telephone: 087 550 7192
+cellular: 0720916687
 
-* SUMMARY
+\section{SUMMARY}
+\label{sec:orgb8cfb61}
 
 Bruce is a BSc (Math, Operational Research) graduate with further studies in Financial engineering and business reporting, through ASSA. 
 Bruce has acted as his own investment manager since 2017 where he has developed a growing knowledge of global investment opportunities.
 Bruce's entreprenarial flare led him to become involved in an ice cream wholesaler startup in Cape Town where he put his knowledge of modelling to use to anticipate business profitability and cash flow. 
 
-       
-* EDUCATION
+Bruce is planning to relocate to the United Kingdom in December at his own cost. Bruce has ancestral rights to a work visa.
 
-- Actuarial Student Fin. math (FB), Business reporting (FB)
+\section{EDUCATION}
+\label{sec:org5895e44}
+
+\begin{itemize}
+\item Actuarial Student Fin. math (FB), Business reporting (FB)
+\end{itemize}
 Actuarial Society of South Africa, Cape Town
 
-- Honours Bachelor of Science (Incomplete) in Operational Research
+\begin{itemize}
+\item Honours Bachelor of Science (Incomplete) in Operational Research
+\end{itemize}
 University of South Africa, Pretoria
 
-- Bachelor of Science in Operational Research, Mathematics, Statistics
+\begin{itemize}
+\item Bachelor of Science in Operational Research, Mathematics, Statistics
+\end{itemize}
 University of South Africa, Pretoria
 
 
-* WORK EXPERIENCE
+\section{WORK EXPERIENCE}
+\label{sec:org7d876d3}
 
-** Entrepreneur/Consultant -  April 2008-present
+\subsection{Entrepreneur/Consultant -  April 2008-present}
+\label{sec:org7119a54}
 
 Wilfredo’s Ice Cream Company
-Bruce performed product R&D and  established a factory. He also researched a ﬁnancial reporting system and performed the bookkeeping. With his business partner, they produced ice cream and delivered it. Bruce administered the business and guided the direction of the business, spending his free time building a spreadsheet model to anticipate cashflow and profitability of the business.
+Bruce performed product R\&D and  established a factory. He also researched a ﬁnancial reporting system and performed the bookkeeping. With his business partner, they produced ice cream and delivered it. Bruce administered the business and guided the direction of the business, spending his free time building a spreadsheet model to anticipate cashflow and profitability of the business.
 
-** Karoo Wireless
+\subsection{Karoo Wireless}
+\label{sec:orga5dc385}
 Bruce was involved in the pilot phase of this business. He scoured the surrounding mountains for antennae sights. He lobbied the municipality for support. He canvassed the area for customers and lobbied for business. Bruce formed a partnership with a company to perform the technical setup. Bruce secured the first few customers.
 
-** Data Analysis Consultant
+\subsection{Data Analysis Consultant}
+\label{sec:org992dc96}
 Bruce has started a consultancy business to aid with specific data analysis requests from small businesses. He has successfully set up a media coverage analysis tool via Excel, for a small PR agency.
 
-** Personal investment manager -   2017-present
+\subsection{Personal investment manager -   2017-present}
+\label{sec:org9a519f0}
 
 Bruce conducts research and reading on the markets and economy. Based on research, Bruce picks equities with an eye to harnessing long-term market trends and predictions. 
 
 
 
-       
-* TRAITS
 
-- Excellent written communicator
+\section{TRAITS}
+\label{sec:org46eda55}
 
-- Expert problem solver 
+\begin{itemize}
+\item Excellent written communicator
 
-- Detail orientated
+\item Expert problem solver
 
-- Technically orientated
+\item Detail orientated
 
-- Analytical thinker
+\item Technically orientated
 
-- An independent worker
-    
+\item Analytical thinker
 
-* PROJECTS
+\item An independent worker
+\end{itemize}
 
-** Costing and Profit spreadsheet - Wilfredo’s Ice Cream Co.
+
+\section{PROJECTS}
+\label{sec:org1460efc}
+
+\subsection{Costing and Profit spreadsheet - Wilfredo’s Ice Cream Co.}
+\label{sec:org3e3ff16}
 
 This spreadsheet was built to ascertain how much the business should
 charge for its ice cream. It tied in with the company’s finances to show proﬁt, from input costs of the ice cream, ongoing expenses, and cost price charged. Ultimately it gave the managers insight into the sustainability of the ice cream business model and substantial amounts of money by showing that ultimately
 the business wasn’t sustainable.
 
-** Home budget spreadsheet tool
+\subsection{Home budget spreadsheet tool}
+\label{sec:org4d28362}
 
 Bruce designed a home budget tool to keep track of expenses and show deviations in a tight household budget. This can be adapted for business use. The next step is to code all the concepts and ultimately to tie it in to an R or Julia package so that everyone can use it.
 
-** Investment analysis scripted document
+\subsection{Investment analysis scripted document}
+\label{sec:org3cf5ab1}
 
 Bruce wrote an experimental org script in Emacs to pull stock prices oﬀ the internet, and to reﬂect the valuations on investments. Bruce further incorporated exchange rates. Bruce stored crucial values to a Sqlite3 database and charted the continuously updated data with a time series chart from R. He has also converted some of the code to R and is performing optimisations on portfolios with some of the specialist packages in R (FRAPO, Quantmod, fPortfolio).
 
-** Media monitoring analysis
+\subsection{Media monitoring analysis}
+\label{sec:org0ed7948}
 Bruce developed a spreadsheet analytic tool that enabled a PR consultant to accurately monitor and analyse the spread, volume and value of media coverage received for her clients.
 
 
 
-* REFERENCES
+\section{REFERENCES}
+\label{sec:orgef9608a}
 
 On request
+\end{document}
