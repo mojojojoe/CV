@@ -1,7 +1,7 @@
-#+TITLE: Resume
+﻿#+TITLE: Curriculum vitaë
 #+OPTIONS: toc:nil
 #+LaTeX_CLASS: koma-article
-
+#+AUTHOR: Bruce R Graham
 
 
 * CONTACT
@@ -21,7 +21,7 @@
   - Excellent written communicator
   - Expert problem solver on Linux 
   - Technically orientated and
-  - An independent worker (with facilities for remote work.)
+  - An independent worker
  
 * SKILLS
   
@@ -50,8 +50,8 @@
   - Bruce compiled the 2.18 kernel tweaking the device drivers and fitting the available drivers. On numerous occassions Bruce compiled a full monolithic kernel and successfully ran his machine.
   - Bruce constructed his own Linux systems, researching required hardware and available drivers.
   - Bruce installed a picoITX form factor PC using a 12V DC ATX power supply in his caravan.
-  - Bruce tweaked the FreeBSD USB driver to pick up his USB device which had an unknown IC and an unusual signature.
-  - Bruce used lithographic principles to build his own hand made circuit board.
+  - Bruce tweaked the FreeBSD USB driver to pick up his USB device which had an unknown bluetooth IC and an unusual signature.
+  - Bruce used lithographic principles to etch his own hand made circuit board.
   - Bruce conducted a 'from scratch' analysis of his expenses in R, attempting to incorporate work from his actuarial studies on ruin theory.
   - Bruce made various attempts at creating an insightful Dashboard for his portfolio of equities.
        
