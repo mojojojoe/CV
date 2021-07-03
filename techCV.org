@@ -1,4 +1,4 @@
-﻿#+TITLE: Curriculum vitaë
+﻿#+TITLE: Curriculum Vitae
 #+OPTIONS: toc:nil
 #+LaTeX_CLASS: koma-article
 #+AUTHOR: Bruce R Graham
@@ -6,21 +6,25 @@
 
 * CONTACT
   
-  Cell: 0027 72 091 6687   IP telephone: 0027 87 550 7192    Email: bruceg72@protonmail.ch
+  email: bruceg72@pm.me
+  telephone: 087 550 7192
+  cellular: 0720916687
 				   
 * SUMMARY
 
-  Bruce is a BSc graduate through UNISA. 
-  Bruce has been an ardent Open Source Unix enthusiast and hobbyist since Linus Torvalds announced his kernel. 
+  Bruce is a BSc graduate in Operational Research and Maths through UNISA. 
+  Bruce has been an ardent Open Source Unix enthusiast since Linus Torvalds announced his new kernel. 
   Bruce has tinkered with device drivers on FreeBSD in C, set up his own PostgreSql server and built clusters, as well as building his own systems.
   Bruce has developed expertise in Bash and R and has programmed in SQL, C and Python.
+  Bruce wrote his university assignments in Latex.
 
        
 * TRAITS
 
   - Excellent written communicator
   - Expert problem solver on Linux 
-  - Technically orientated and
+  - Technically orientated
+  - An analytical thinker and
   - An independent worker
  
 * SKILLS
@@ -41,7 +45,7 @@
 | C             | senior         |
 | Apache config | intermediate   |
 | Shiny         | beginner/inter |
-|               |                |
+| Latex         | working        |
 |---------------+----------------|
 
 
