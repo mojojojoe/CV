@@ -4,12 +4,6 @@
 #+AUTHOR: Bruce R Graham
 
 
-* CONTACT
-  
-  email: bruceg72@pm.me
-  telephone: 087 550 7192
-  cellular: 0720916687
-				   
 * SUMMARY
 
   Bruce is a BSc graduate in Operational Research and Maths through UNISA. 
@@ -88,3 +82,6 @@
 * REFERENCES
 
 On request
+
+
+  
