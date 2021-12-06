@@ -1,21 +1,19 @@
 #+TITLE: Curriculum Vitae
 #+OPTIONS: toc:nil
 #+LaTeX_CLASS: koma-article
-#+AUTHOR: Bruce Graham
+
 
 * CONTACT
 
-  email: bruceg72@pm.me
-  telephone: 087 550 7192
-  cellular: 0720916687
+email: bruceg72@pm.me
+cellular: +27-73-234-4947
+
+Bruce has ancestral rights to live and work in the United Kingdom. He anticipates a move, at his own expense, in 2022.
 
 * SUMMARY
 
-Bruce is a BSc (Math, Operational Research) graduate with further studies in Financial engineering and business reporting, through ASSA. 
-Bruce has acted as his own investment manager since 2017 where he has developed a growing knowledge of global investment opportunities.
-Bruce's entreprenarial flare led him to become involved in an ice cream wholesaler startup in Cape Town where he put his knowledge of modelling to use to anticipate business profitability and cash flow. 
+Bruce is a BSc (Math, Operational Research) graduate with further studies in Financial engineering and business reporting, through the Actuarial Society of South Africa. Bruce has acted as his own investment manager since 2017 where he has developed a growing knowledge of global investment opportunities. Bruce's entreprenarial flare led him to become involved in an ice cream wholesaler startup in Cape Town where he put his knowledge of modelling to use to anticipate business profitability and cash flow. These exercises eventually led to savings in the tens of millions of rands for the company.
 
-Bruce is planning to relocate to the United Kingdom in December at his own cost. Bruce has ancestral rights to a work visa.
        
 * EDUCATION
 
@@ -46,16 +44,12 @@ Bruce has started a consultancy business to aid with specific data analysis requ
 
 Bruce conducts research and reading on the markets and economy. Based on research, Bruce picks equities with an eye to harnessing long-term market trends and predictions. 
 
-
-
        
 * TRAITS
 
 - Excellent written communicator
 
 - Expert problem solver 
-
-- Detail orientated
 
 - Technically orientated
 
