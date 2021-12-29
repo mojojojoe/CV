@@ -1,88 +1,79 @@
-﻿			   ━━━━━━━━━━━━━━━━━━
-			    CURRICULUM VITAE
+﻿                           ━━━━━━━━━━━━━━━━━━
+                            CURRICULUM VITAE
 
-			     Bruce R Graham
-			   ━━━━━━━━━━━━━━━━━━
-
-
+                             Bruce R Graham
+                           ━━━━━━━━━━━━━━━━━━
 
 
-
-1 CONTACT
-═════════
-
-  email: bruceg72@pm.me telephone: 087 550 7192 cellular: 0720916687
+bruceg72@pm.me
 
 
-2 SUMMARY
-═════════
+TRAITS
+══════
 
-  Bruce is a BSc graduate in Operational Research and Maths through
-  UNISA.  Bruce has been an ardent Open Source Unix enthusiast since
-  Linus Torvalds announced his new kernel.  Bruce has tinkered with
-  device drivers on FreeBSD in C, set up his own PostgreSql server and
-  built clusters, as well as building his own systems.  Bruce has
-  developed expertise in Bash and R and has programmed in SQL, C and
-  Python.  Bruce wrote his university assignments in Latex.
+  ✓ Written communicator
+  ✓ Practised problem solver on Linux
+  ✓ Technically oriented
+  ✓ Analytical
+  ✓ Disciplined and independent
+  ✓ Productive behind a screen
 
 
-3 TRAITS
+SUMMARY
+═══════
+
+  Bruce is a science graduate in Operational Research and Statistics
+  through UNISA.
+
+  He has been an ardent Open Source Unix enthusiast since Linus Torvalds
+  announced his new kernel and he has tinkered with device drivers on
+  FreeBSD in C
+
+  Bruce has made scores of installations with various flavours of Linux,
+  OpenBSD and FreeBSD. He has also built dozens of systems for home use.
+
+  In the last decade Bruce was involved with a niche ice cream startup
+  in Cape Town.
+
+  Bruce has subsequently spent time at home managing his investments and
+  raising his family.
+
+  Bruce is looking for a remote role in system administration or devops.
+
+
+PROJECTS
 ════════
 
-  • Excellent written communicator
-  • Expert problem solver on Linux
-  • Technically orientated
-  • An analytical thinker and
-  • An independent worker
+  Kernel compilation
+
+  Bruce compiled the 2.18 kernel, configuring and fitting the device
+  drivers to the available hardware. On numerous occassions Bruce
+  compiled a full monolithic kernel and successfully ran his machine.
+
+  PC construction
+
+  Bruce constructed his own PC systems, researching hardware and
+  availability of drivers on different platforms.
+
+  Kernel driver tweaking
+
+  Bruce tweaked the FreeBSD USB wireless driver to pick up his USB
+  device which had an unknown bluetooth IC and an unusual signature.
+
+  PCB Lithographic etching
+
+  Bruce used lithographic principles to etch his own hand made circuit
+  board.
+
+  Analysis in R
+
+  Bruce conducted a 'from scratch' analysis of his expenses in R,
+  attempting to incorporate work from his actuarial studies on ruin
+  theory.
 
 
-4 SKILLS
-════════
-
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   Skill          Level          
-  ───────────────────────────────
-   R              senior         
-   Python         intermediate   
-   Ansible        beginner       
-   deb            working        
-   rpm            working        
-   Git            working        
-   Bash           working        
-   Command line   expert         
-   Ubuntu         senior         
-   CentOS         senior         
-   PostgreSQL     intermediate   
-   C              senior         
-   Apache config  intermediate   
-   Shiny          beginner/inter 
-   Latex          working        
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-
-5 PROJECTS
-══════════
-
-  • Bruce compiled the 2.18 kernel tweaking the device drivers and
-    fitting the available drivers. On numerous occassions Bruce compiled
-    a full monolithic kernel and successfully ran his machine.
-  • Bruce constructed his own Linux systems, researching required
-    hardware and available drivers.
-  • Bruce installed a picoITX form factor PC using a 12V DC ATX power
-    supply in his caravan.
-  • Bruce tweaked the FreeBSD USB driver to pick up his USB device which
-    had an unknown bluetooth IC and an unusual signature.
-  • Bruce used lithographic principles to etch his own hand made circuit
-    board.
-  • Bruce conducted a 'from scratch' analysis of his expenses in R,
-    attempting to incorporate work from his actuarial studies on ruin
-    theory.
-  • Bruce made various attempts at creating an insightful Dashboard for
-    his portfolio of equities.
-
-
-6 EDUCATION
-═══════════
+EDUCATION
+═════════
 
   Honours Bachelor of Science (Incomplete) [2005-01-31 Mon] to
   [2006-11-30 Thu] Operational Research University of South Africa,
@@ -92,33 +83,64 @@
   Research, Mathematics, Statistics (2:2) University of South Africa,
   Pretoria
 
-
-7 WORK EXPERIENCE
-═════════════════
-
-  Personal investment manager 2017-01 to present Work from home Bruce
-  conducts research and reading on the markets and economy with an eye
-  to harnessing ultra long term market forces and trends. Bruce has
-  become a connoisseur of investment products with excellent risk
-  management and is not a return chaser.
-
-  Entrepreneur 2008-04 to 2015-07 Wilfredo’s Ice Cream Company Bruce
-  performed product R&D and established a factory. He also researched a
-  ﬁnancial reporting system and performed the bookkeeping. With his
-  business partner, they produced ice cream and delivered it. Bruce
-  administered the business and guided the direction of the business,
-  spending his free time building a spreadsheet model to anticipate
-  cashflow and profitability of the business.
-
-  Entrepreneur 2006-09 to 2008-01 Karoo Wireless Bruce was involved in
-  the pilot phase of this business. He scoured the surrounding mountains
-  for antennae sights. He lobbied the municipality for support. He
-  canvassed the area for customers and lobbied for business. Bruce
-  formed a partnership with a company in George to perform the technical
-  setup. Bruce left after having secured the first few customers.
+  Bruce has spent the last 4 years registered with the Actuarial society
+  as a student member. He has written two exams with FB results.
 
 
-8 REFERENCES
-════════════
+SKILLS
+══════
+
+  R ✗✗✗✗
+  Python ✗✗✗
+  Git ✗✗
+  Bash ✗✗✗
+  C ✗✗
+
+
+WORK EXPERIENCE
+═══════════════
+
+Personal investments
+────────────────────
+
+  2017 Jan to Present
+
+  *Home*
+
+  Bruce conducts research and reading on the markets and economy with an
+  eye to harnessing ultra long term market forces and trends.
+
+
+Startup founder
+───────────────
+
+  2011 Oct to 2016 Dec
+
+  *Wilfredo’s Ice Cream Company
+  *
+
+  2011 Performed product R&D and researched manufacture and delivery
+  options. Also researched a ﬁnancial reporting system.
+
+  2012-2014 With business partner, we manufactured ice cream and
+  delivered it.
+  Bruce administered the business. He issued invoices, handled incoming
+  invoices, made payments, updated the books and handled the VAT.
+
+  2015-2016 Bruce also handled the end of year AFS and guided the
+  direction of the business.
+
+  Bruce spent his free time building a spreadsheet model to anticipate
+  cashflow and profitability of the business. To this end he discovered
+  a difficulty with future cashflow that only a very deep pocket and
+  phenomenal sales growth could overcome. This was met with sheer
+  disbelief by his partner. But as the prognosis of the model started
+  coming true and in light of the insightful information provided by the
+  model, further equity capital was withheld and lossess of up to
+  R15million were nipped in the bud.
+
+
+REFERENCES
+══════════
 
   On request
