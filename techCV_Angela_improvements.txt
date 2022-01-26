@@ -1,16 +1,15 @@
-﻿                           __________________
-
+﻿                           ━━━━━━━━━━━━━━━━━━
                             CURRICULUM VITAE
 
                              Bruce R Graham
-                           __________________
+                           ━━━━━━━━━━━━━━━━━━
 
 
 bruceg72@pm.me
 
 
 TRAITS
-======
+══════
 
   ✓ Written communicator
   ✓ Practised problem solver on Linux
@@ -21,14 +20,14 @@ TRAITS
 
 
 SUMMARY
-=======
+═══════
 
   Bruce is a science graduate in Operational Research and Statistics
   through UNISA.
 
   He has been an ardent Open Source Unix enthusiast since Linus Torvalds
-  announced his new kernel and he has tinkered with device drivers on
-  FreeBSD in C
+  announced his new kernel in 1993 and he has tinkered with device drivers on
+  FreeBSD in C.
 
   Bruce has made scores of installations with various flavours of Linux,
   OpenBSD and FreeBSD. He has also built dozens of systems for home use.
@@ -36,14 +35,14 @@ SUMMARY
   In the last decade Bruce was involved with a niche ice cream startup
   in Cape Town.
 
-  Bruce has subsequently spent time at home managing his investments and
-  raising his family.
+  Bruce has subsequently spent time at home managing his investment fund and
+  raising his family, who includes a daughter with special needs.
 
   Bruce is looking for a remote role in system administration or devops.
 
 
 PROJECTS
-========
+════════
 
   Kernel compilation
 
@@ -74,11 +73,7 @@ PROJECTS
 
 
 EDUCATION
-=========
-
-  Honours Bachelor of Science (Incomplete) [2005-01-31 Mon] to
-  [2006-11-30 Thu] Operational Research University of South Africa,
-  Pretoria
+═════════
 
   Bachelor of Science [1993-01-31 Sun] to [2004-10-31 Sun] Operational
   Research, Mathematics, Statistics (2:2) University of South Africa,
@@ -89,7 +84,7 @@ EDUCATION
 
 
 SKILLS
-======
+══════
 
   R ✗✗✗✗
   Python ✗✗✗
@@ -99,23 +94,27 @@ SKILLS
 
 
 WORK EXPERIENCE
-===============
+═══════════════
 
-  *Manager of personal investments
+Personal investments
+────────────────────
 
   2017 Jan to Present
+
+  *Home*
 
   Bruce conducts research and reading on the markets and economy with an
   eye to harnessing ultra long term market forces and trends.
 
 
 Startup founder
-~~~~~~~~~~~~~~~
+───────────────
 
   2011 Oct to 2016 Dec
 
   *Wilfredo’s Ice Cream Company
-  
+  *
+
   2011 Performed product R&D and researched manufacture and delivery
   options. Also researched a ﬁnancial reporting system.
 
@@ -138,6 +137,6 @@ Startup founder
 
 
 REFERENCES
-==========
+══════════
 
   On request
