@@ -2,14 +2,15 @@
 #+OPTIONS: toc:nil
 #+LaTeX_CLASS: article
 #+AUTHOR: Bruce R Graham
-#+EMAIL: bruceg72@pm.me
+#+EMAIL: bruce.graham@gmail.com
 
-bruceg72@pm.me
+bruce.graham@gmail.com
+0027-72-091-687
 
 * TRAITS 
 
-✓ Written communicator \\
-✓ Practised problem solver on Linux \\
+✓ A written communicator \\
+✓ A practised problem solver on Linux \\
 ✓ Technically oriented \\
 ✓ Analytical \\
 ✓ Disciplined and independent\\
@@ -19,13 +20,13 @@ bruceg72@pm.me
 
 Bruce is a science graduate in Operational Research and Statistics through UNISA. 
 
-He has been an ardent Open Source Unix enthusiast since Linus Torvalds announced his new kernel and he has tinkered with device drivers on FreeBSD in C
+He has been an ardent Open Source Unix enthusiast since Linus Torvalds announced his new kernel in 1991 and he has tinkered with device drivers on FreeBSD in C.
 
 Bruce has made scores of installations with various flavours of Linux, OpenBSD and FreeBSD. He has also built dozens of systems for home use.
 
 In the last decade Bruce was involved with a niche ice cream startup in Cape Town.
 
-Bruce has subsequently spent time at home managing his investments and raising his family.
+Bruce has subsequently spent time at home managing his investment fund and raising his family, who includes a daughter with special needs.
 
 Bruce is looking for a remote role in system administration or devops. 
 
@@ -52,29 +53,77 @@ Analysis in R
 Bruce conducted a 'from scratch' analysis of his expenses in R, attempting to incorporate work from his actuarial studies on ruin theory.
 * EDUCATION
 
-Honours Bachelor of Science (Incomplete)		[2005-01-31] to [2006-11-30]
-Operational Research
-University of South Africa, Pretoria
-
 Bachelor of Science					[1993-01-31] to [2004-10-31]
 Operational Research, Mathematics, Statistics (2:2)
 University of South Africa, Pretoria
 
 Bruce has spent the last 4 years registered with the Actuarial society as a student member. He has written two exams with FB results.
 
-* SKILLS
+* TECHNICAL SKILLS
 
-R      ✗✗✗✗\\             
 Python ✗✗✗\\         
 Git    ✗✗\\       
 Bash   ✗✗✗\\         
 C      ✗✗\\
+R      ✗✗✗✗\\             
 
+* SOFT SKILLS
+
+** Communication
+
+- Superb writer
+- Amenable to writing reports and presentations
+- Has social skills
+
+** Critical thought
+
+- Critical thinker
+- Desire to learn
+- Logical and systematic thinker
+- Problem solver
+- Troubleshooter
+- Willing to learn
+  
+** Leadership
+
+- Transparent/give clear feedback
+- Conflict resolver
+- Decision maker
+
+** Attitude
+
+- Courteous
+- Friendly
+- Cooperative
+- Patient
+- Respectful
+
+** Teamwork
+
+- Able to establish relationships
+- Empathic
+- Accept feedback
+
+** Work ethic
+
+- Dependable
+- Dedicated
+- Follow direction
+- Self directed
+- Planner
+- Persevere
+- Punctual
+- Resilient
+- Self monitoring
+- Trainable
+  
 * WORK EXPERIENCE
 
-** Manager of personal investments
+** Personal investments
 
 2017 Jan to Present
+
+*Home*
 
 Bruce conducts research and reading on the markets and economy with an eye to harnessing ultra long term market forces and trends. 
 
@@ -86,12 +135,15 @@ Bruce conducts research and reading on the markets and economy with an eye to ha
 
 *Wilfredo’s Ice Cream Company\\*
 
-2011 Performed product R&D and researched manufacture and delivery options. Also researched a ﬁnancial reporting system.\\
+2015-2016 Bruce also handled the end of year AFS and guided the 
+direction of the business.\\
 
 2012-2014 With business partner, we manufactured ice cream and delivered it.\\
 Bruce administered the business. He issued invoices, handled incoming invoices, made payments, updated the books and handled the VAT.\\
 
-2015-2016 Bruce also handled the end of year AFS and guided the direction of the business.\\
+2011 Performed product R&D and researched manufacture and delivery options. Also researched a ﬁnancial reporting system.\\
+
+
 
 Bruce spent his free time building a spreadsheet model to anticipate cashflow and profitability of the business. To this end he discovered a difficulty with future cashflow that only a very deep pocket and phenomenal sales growth could overcome. This was met with sheer disbelief by his partner. But as the prognosis of the model started coming true and in light of the insightful information provided by the model, further equity capital was withheld and lossess of up to R15million were nipped in the bud.
 
