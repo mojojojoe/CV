@@ -11,7 +11,11 @@ cellular: +27-72-091-6687
 
 * SUMMARY
 
-Bruce is a BSc (Math, Operational Research) graduate with further studies in Financial engineering and business reporting, through the Actuarial Society of South Africa. Bruce has acted as his own investment manager since 2017 where he has developed a growing knowledge of global investment opportunities. Bruce's entreprenarial flare led him to become involved in an ice cream wholesaler startup in Cape Town where he put his knowledge of modelling to use to anticipate business profitability and cash flow. These exercises eventually led to savings in the tens of millions of rands for the company.
+Bruce is a BSc (Math, Operational Research) graduate with further studies in financial engineering and business reporting, through the Actuarial Society of South Africa.
+
+Bruce has acted as his own investment manager since 2017 where he has developed a growing knowledge of global investment opportunities.
+
+Bruce's entreprenarial flare led him to become involved in an ice cream wholesaler startup in Cape Town where he put his knowledge of modelling to use to anticipate business profitability and cash flow. These exercises eventually led to savings in the tens of millions of rands for the company.
 
        
 * EDUCATION
@@ -28,7 +32,7 @@ University of South Africa, Pretoria
 
 * WORK EXPERIENCE
 
-** Entrepreneur/Consultant -  April 2008-present
+** Entrepreneur/Consultant -  April 2008-2019
 
 Wilfredo’s Ice Cream Company
 Bruce performed product R&D and  established a factory. He also researched a ﬁnancial reporting system and performed the bookkeeping. With his business partner, they produced ice cream and delivered it. Bruce administered the business and guided the direction of the business, spending his free time building a spreadsheet model to anticipate cashflow and profitability of the business.
