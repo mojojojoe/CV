@@ -4,8 +4,8 @@
 #+AUTHOR: Bruce R Graham
 #+EMAIL: bruce.graham@gmail.com
 
-bruce.graham@gmail.com
-0027-72-091-687
+email: bruce.graham@gmail.com
+cellular: 0027-72-091-6687
 
 * TRAITS 
 
@@ -63,7 +63,7 @@ Bruce has spent the last 4 years registered with the Actuarial society as a stud
 
 Python ✗✗✗\\         
 Git    ✗✗\\       
-Bash   ✗✗✗\\         
+BASH   ✗✗✗\\         
 C      ✗✗\\
 R      ✗✗✗✗\\             
 
