@@ -1,24 +1,24 @@
-<<Bruce Graham>>
-<CONTACT>
+__Bruce Graham__
+__CONTACT__
   email: bruce.graham@gmail.com cellular: 0027-72-091-6687
 
-<SUMMARY>
+__SUMMARY__
 Bruce is a dedicated student at the Actuarial Society of South Africa and he has written two exams with FB!
 
 Bruce is passionate about actuarial science and feels that insurance innovations can further change the world and revolutionise our lives, especially with the advent of Fintech and DeFi.
 
 Bruce loves the challenge of mathematics and would desperately love a position in the insurance field to further fund his studies as a student actuary.
 
-<EDUCATION>
+__EDUCATION__
   Bachelor of Science in Operational Research & Statistics, UNISA, Pretoria.
 
-<WORK EXPERIENCE>
+__WORK EXPERIENCE__
 *2017 to now*.Bruce has administered and tended to his personal investment fund. He has also raised his family where he has a daughter with special needs.
 *2012-2017*.Bruce administered Wilfredo’s Ice Cream Company (WICC) and guided the direction of the business, spending his free time building a spreadsheet model to anticipate cashflow and profitability of the business. Prepared AFS.
 *2012*.(WICC) Initially Bruce produced ice cream and delivered it.
 *2011*.(WICC) Bruce performed product R&D and established a factory. He also researched a financial reporting system and performed the bookkeeping.
 
-<PROJECTS>
+__PROJECTS__
 *Costing and Profit spreadsheet - Wilfredo’s Ice Cream Co.*
   This spreadsheet was built to ascertain how much the business should
   charge for its ice cream. It tied in with the company’s finances to
@@ -47,7 +47,7 @@ Bruce loves the challenge of mathematics and would desperately love a position i
   consultant to accurately monitor and analyse the spread, volume and
   value of media coverage received for her clients.
 
-<TRAITS>
+__TRAITS__
 - Excellent written communicator
 - Expert problem solver
 - Technically oriented
