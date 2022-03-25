@@ -1,6 +1,6 @@
-                              Bruce Graham                          						       ━━━━━━━━━━━
+<<Bruce Graham>>
 <CONTACT>
-  /email/: bruce.graham@gmail.com /cellular/: 0027-72-091-6687
+  email: bruce.graham@gmail.com cellular: 0027-72-091-6687
 
 <SUMMARY>
 Bruce is a dedicated student at the Actuarial Society of South Africa and he has written two exams with FB!
